@@ -1,0 +1,1 @@
+Este projeto trata-se do projeto final do módulo intermediário do curso de Python para Data Science do PA Analytics
